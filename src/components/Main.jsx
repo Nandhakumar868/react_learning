@@ -2,8 +2,8 @@ import React from "react";
 
 const Main = () => {
     return(
-        <div>
-            <p>Main</p>
+        <div className="bg-gray-200 h-[94.3vh] text-white flex items-center justify-center">
+            <p className="font-bold text-3xl">Main</p>
         </div>
     );
 }
